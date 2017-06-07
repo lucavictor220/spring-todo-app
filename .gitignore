@@ -1,0 +1,11 @@
+
+client/
+server/*.DS_Store
+server/bin
+server/target
+server/.classpath
+server/.project
+server/.settings
+server/src/main/webapp/META-INF
+server/.idea
+server/*.iml
